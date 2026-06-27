@@ -20,5 +20,6 @@ To do
 -Prettier the Website
 - Hamburger Menu
 - Organize better
+- Change Colors
 - Add a Search bar
 - Much More...
